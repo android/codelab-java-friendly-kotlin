@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+@file:JvmName("StringUtils")
+
 package com.google.example.javafriendlykotlin
 
 fun String.toTitleCase(): String {
